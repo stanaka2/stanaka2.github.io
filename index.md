@@ -1,16 +1,32 @@
 # Satoshi Tanaka's HP
 
+<!--
 [English](./index_en.html)
+-->
 
 ## 研究内容
 
-- キーワード : 宇宙物理学、宇宙論、大規模構造形成、ニュートリノ、Vlasovシミュレーション、高性能計算、機械学習、エミュレータ、データ駆動理学、解釈可能AI
-
 ### 宇宙物理学
 
-[![Vlasovシミュレーション](http://img.youtube.com/vi/Hwy11sb31S0/0.jpg)](<https://youtu.be/Hwy11sb31S0?si=jMZDeFdhfngMuN6O>)
+富岳などのスーパーコンピュータを使ったシミュレーションによって宇宙の大規模構造形成の研究を行っています。特にニュートリノの影響を正しく取り扱った大規模構造形成シミュレーションが特徴的です。また、宇宙論パラメータを推定するために、毎回大規模シミュレーションを行うことは現実的ではないので、シミュレーション結果を学習データにしたエミュレータ開発にも力を入れています。
 
-### データ駆動理学
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div>
+    <p><strong>富岳全系を使ったシミュレーション</strong></p>
+    <iframe width="480" height="300" src="https://www.youtube.com/embed/Hwy11sb31S0?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div>
+    <p><strong>DarkEmulator2</strong></p>
+    <img src="./figure/emulator.png" alt="エミュレータ" width="320">
+  </div>
+</div>
+
+### データ駆動理学、解釈可能AI
+
+ニューラルネットワークなどでモデルを構築できれば多くの物理現象をうまく再現してくれます。なぜうまくいくのかを数理的に理解する研究を行っています。
+
+
+- キーワード : 宇宙物理学、宇宙論、大規模構造形成、ニュートリノ、Vlasovシミュレーション、高性能計算、機械学習、エミュレータ、データ駆動理学、解釈可能AI
 
 
 ## プロフィール
