@@ -1,3 +1,7 @@
+---
+title: "Satoshi Tanaka's HP"
+---
+
 # Satoshi Tanaka's HP
 
 <!--
