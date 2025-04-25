@@ -8,6 +8,7 @@ title: "Satoshi Tanaka's HP"
 [English](./index_en.html)
 -->
 
+
 ## 研究内容
 
 ### 宇宙物理学
@@ -30,7 +31,9 @@ title: "Satoshi Tanaka's HP"
 ニューラルネットワークなどでモデルを構築できれば多くの物理現象をうまく再現してくれます。なぜうまくいくのかを数理的に理解する研究を行っています。
 
 
-- キーワード : 宇宙物理学、宇宙論、大規模構造形成、ニュートリノ、Vlasovシミュレーション、高性能計算、機械学習、エミュレータ、データ駆動理学、解釈可能AI
+- キーワード : 宇宙物理学、宇宙論、大規模構造形成、ニュートリノ、Vlasovシミュレーション、高性能計算、機械学習、エミュレータ、ビッグデータ、 データ駆動理学、解釈可能AI
+
+---
 
 
 ## プロフィール
@@ -42,12 +45,12 @@ title: "Satoshi Tanaka's HP"
 - 2015.4-2016.3 東京大学, 大学院理学系研究科, 特任研究員
 - 2015.3 筑波大学, 数理物質科学研究科, 物理学専攻 博士後期課程 修了, 博士(物理学)
 - 2010.3 筑波大学, 第一学群自然学類, 物理学専攻 卒業
-- 2006.3 広島市立大学 基町高等学校 卒業
+- 2006.3 広島市立 基町高等学校 卒業
 
----
 
 - [resarchmap](<https://researchmap.jp/satoshi.tanaka>)
 
+---
 
 ## オープンソース
 
@@ -55,7 +58,27 @@ title: "Satoshi Tanaka's HP"
 - [GitHub Gist](<https://gist.github.com/stanaka2>) : 主に計算機周りのメモ
 - [MPI-Rockstar](<https://github.com/Tomoaki-Ishiyama/mpi-rockstar>) : Tomoyuki Tokuue, Tomoaki Ishiyama, Ken Osato, Satoshi Tanaka, and Peter Behroozi, 2024
 
+---
+
+## プロジェクト
+
+- [Dark Quest Project Webpage](<https://darkquestcosmology.github.io/>)
+- [シミュレーションとAIの融合で解明する宇宙の構造と進化](<https://www2.ccs.tsukuba.ac.jp/aiuniverse/>)
+- 次世代宇宙論サーベイ群のための多波長宇宙論的シミュレーション
+- [ダークマターの正体は何か？](<https://member.ipmu.jp/DarkMatter/>)
+
+---
 
 ## リンク
 
 - 一橋大学 [Data Driven Science Group](<https://mototakelab.github.io/>)
+
+## 連絡先
+
+- E-mail
+  - satoshi.tanaka_AT_r.hit-u.ac.jp
+  - satoshi.tanaka_AT_yukawa.kyoto-u.ac.jp
+_AT_は@に変換
+
+- アドレス
+  - 〒186-8601 東京都国立市中2-1 一橋大学 (東キャンパス 第3研究館 201)
