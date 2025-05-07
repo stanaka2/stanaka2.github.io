@@ -55,29 +55,33 @@ title: "Satoshi Tanaka's HP"
 ## オープンソース
 
 - [GitHub](<https://github.com/stanaka2>)
-- [GitHub Gist](<https://gist.github.com/stanaka2>) : 主に計算機周りのメモ
+- [GitHub Gist](<https://gist.github.com/stanaka2>) : 主に計算機周りのメモ, プログラミングtips
 - [MPI-Rockstar](<https://github.com/Tomoaki-Ishiyama/mpi-rockstar>) : Tomoyuki Tokuue, Tomoaki Ishiyama, Ken Osato, Satoshi Tanaka, and Peter Behroozi, 2024
 
 ---
 
 ## プロジェクト
 
-- [Dark Quest Project Webpage](<https://darkquestcosmology.github.io/>)
+- [Dark Quest Project](<https://darkquestcosmology.github.io/>)
 - [シミュレーションとAIの融合で解明する宇宙の構造と進化](<https://www2.ccs.tsukuba.ac.jp/aiuniverse/>)
 - 次世代宇宙論サーベイ群のための多波長宇宙論的シミュレーション
 - [ダークマターの正体は何か？](<https://member.ipmu.jp/DarkMatter/>)
+
+### これまでのプロジェクト
+
+- [ポスト「京」重点課題⑨ 宇宙の基本法則と進化の解明](https://www.jicfus.jp/postk9/jp/)
 
 ---
 
 ## リンク
 
-- 一橋大学 [Data Driven Science Group](<https://mototakelab.github.io/>)
+- [一橋大学 Data Driven Science Group](<https://mototakelab.github.io/>)
+- [一橋大学](<https://www.hit-u.ac.jp/>)
 
 ## 連絡先
 
 - E-mail
   - satoshi.tanaka_AT_r.hit-u.ac.jp
-  - satoshi.tanaka_AT_yukawa.kyoto-u.ac.jp
 _AT_は@に変換
 
 - アドレス
